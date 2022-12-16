@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nd4QouHZXkLd8JN6U7IuJJQEfiYtzn1XrFWNN2OtqXXzIftwHJdN5pXwKFtYo2nJ9fxOG0BFShD4F8xd0h4pGg==",
+  "success": true,
+  "projectFilePath": "/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/Webcrawler.csproj",
+  "expectedPackageFiles": [
+    "/Users/astritselimi/Projects/Nuget Pakete/ironwebscraper/2021.11.0/ironwebscraper.2021.11.0.nupkg.sha512",
+    "/Users/astritselimi/Projects/Nuget Pakete/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/astritselimi/Projects/Nuget Pakete/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/astritselimi/Projects/Nuget Pakete/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

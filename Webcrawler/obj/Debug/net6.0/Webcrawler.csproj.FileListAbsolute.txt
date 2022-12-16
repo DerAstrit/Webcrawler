@@ -1,0 +1,15 @@
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/bin/Debug/net6.0/Webcrawler
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/bin/Debug/net6.0/Webcrawler.deps.json
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/bin/Debug/net6.0/Webcrawler.runtimeconfig.json
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/bin/Debug/net6.0/Webcrawler.dll
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/bin/Debug/net6.0/Webcrawler.pdb
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/obj/Debug/net6.0/Webcrawler.csproj.AssemblyReference.cache
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/obj/Debug/net6.0/Webcrawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/obj/Debug/net6.0/Webcrawler.AssemblyInfoInputs.cache
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/obj/Debug/net6.0/Webcrawler.AssemblyInfo.cs
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/obj/Debug/net6.0/Webcrawler.csproj.CoreCompileInputs.cache
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/obj/Debug/net6.0/Webcrawler.dll
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/obj/Debug/net6.0/refint/Webcrawler.dll
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/obj/Debug/net6.0/Webcrawler.pdb
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/obj/Debug/net6.0/Webcrawler.genruntimeconfig.cache
+/Users/astritselimi/Projects/PROG1/Webcrawler/Webcrawler/obj/Debug/net6.0/ref/Webcrawler.dll
