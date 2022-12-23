@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3blngtnFACCaRGheiFJqcgK4i7ajNy+4XlnJoC0BjquG0pewdepy1FyjWzYie5MwxEyvqLl3LIjbJopPPuRIOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\astri\\RiderProjects\\Webcrawler-main\\Webcrawler\\Webcrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\astri\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\astri\\.nuget\\packages\\ironwebscraper\\2021.11.0\\ironwebscraper.2021.11.0.nupkg.sha512",
+    "C:\\Users\\astri\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\astri\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\astri\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
